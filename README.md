@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   "backend": ["nodejs", "express"],
   "databases": ["mysql", "postgresql", "sqlite", "mongodb", "firebase"],
   "css": ["sass", "styled-components", "css modules", "bootstrap", "tailwindcss", "radixui", "shadcn-ui"],
-  "devops": ["netlify", "cloudflarepages", "render", "heroku", "firebase-hosting", "vercel", "github-pages", "railway", "mongo-atlas", "shared-servers"],
+  "prod": ["netlify", "cloudflarepages", "render", "heroku", "firebase-hosting", "vercel", "github-pages", "railway", "mongo-atlas", "shared-servers"],
 }
 ```
 
