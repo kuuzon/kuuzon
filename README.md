@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   "backend": ["nodejs", "express"],
   "databases": ["mysql", "postgresql", "sqlite", "mongodb", "firebase"],
   "css": ["css modules", "sass", "styled-components", "@stitches", "tailwindcss", "vanilla-extract"],
-  "uiLibraries": ["bootstrap"|"react-bootstrap", "mui", "@mantine", "radixui", "daisy-ui", "shadcn-ui"],
+  "ui-libraries": ["bootstrap", "mui", "@mantine", "radixui", "daisy-ui", "shadcn-ui"],
   "prod": ["netlify", "cloudflarepages", "render", "heroku", "firebase-hosting", "vercel", "github-pages", "railway", "mongo-atlas", "shared-servers"],
 }
 ```
