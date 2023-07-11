@@ -39,7 +39,8 @@ Here are some ideas to get you started:
   "frontend": ["react", "next", "vuejs", "svelte"],
   "backend": ["nodejs", "express"],
   "databases": ["mysql", "postgresql", "sqlite", "mongodb", "firebase"],
-  "css": ["sass", "styled-components", "css modules", "bootstrap", "tailwindcss", "radixui", "shadcn-ui"],
+  "css": ["css modules", "sass", "styled-components", "@stitches", "tailwindcss", "vanilla-extract"],
+  "ui-libraries": ["bootstrap"/"react-bootstrap", "mui", "@mantine", "radixui", "shadcn-ui"],
   "prod": ["netlify", "cloudflarepages", "render", "heroku", "firebase-hosting", "vercel", "github-pages", "railway", "mongo-atlas", "shared-servers"],
 }
 ```
