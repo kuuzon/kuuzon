@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ```json
 {
-  "standards": ["html", "css", "javascript", "typescript", "sql", "php", "xml"],
+  "standards": ["html", "css", "javascript", "typescript", "sql", "php", "xml", "bash"],
   "frontend": ["react", "next", "vuejs", "remix", "wordpress"],
   "backend": ["nodejs", "express"],
   "databases": ["mysql", "postgresql", "sqlite", "mongodb", "firebase"],
