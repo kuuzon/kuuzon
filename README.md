@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 ```json
 {
-  "standards": ["html", "css", "ecmascript (javascript|typescript)", "sql", "json", "xml|xhtml", "php"],
-  "frontend": ["react", "next", "vuejs", "svelte"],
+  "standards": ["html", "css", "javascript", "typescript", "sql", "php", "xml"],
+  "frontend": ["react", "next", "vuejs", "remix", "wordpress"],
   "backend": ["nodejs", "express"],
   "databases": ["mysql", "postgresql", "sqlite", "mongodb", "firebase"],
   "css": ["css modules", "sass", "styled-components", "@stitches", "tailwindcss", "vanilla-extract"],
-  "ui-libraries": ["bootstrap", "mui", "@mantine", "radixui", "daisy-ui", "shadcn-ui"],
+  "ui-libraries": ["bootstrap", "mui", "radixui", "daisy-ui", "shadcn-ui"],
   "prod": ["netlify", "cloudflarepages", "render", "heroku", "firebase-hosting", "vercel", "github-pages", "railway", "mongo-atlas", "shared-servers"],
 }
 ```
